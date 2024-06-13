@@ -1,27 +1,27 @@
 [
     {
-      "title": "ACC",
-      "display_time": 5, 
-      "url": "https://acc.sabah.gov.my"
+        "title": "ACC",
+        "display_time": 5, 
+        "url": "https://acc.sabah.gov.my"
     },
     {
     	"title": "Bantuan Kewangan 2024", 
      	"display_time": 15, 
-      "url": "https://acc-metabase.sabah.gov.my/public/dashboard/357c558b-59e0-48fd-9173-5e3e5b7b8b7f"
+        "url": "https://acc-metabase.sabah.gov.my/public/dashboard/357c558b-59e0-48fd-9173-5e3e5b7b8b7f"
     },
     {
     	"title": "Baucar AP58(a)", 
      	"display_time": 15, 
-      "url": "https://acc-metabase.sabah.gov.my/public/dashboard/55b8ae77-450d-41b5-bfa0-b87f3544de5c"
+        "url": "https://acc-metabase.sabah.gov.my/public/dashboard/55b8ae77-450d-41b5-bfa0-b87f3544de5c"
     },
     {
     	"title": "Incoming/Outgoing Vouchers", 
      	"display_time": 15, 
-      "url": "https://acc-metabase.sabah.gov.my/public/dashboard/3165263e-563f-4d30-a84d-bdf024007225"
+        "url": "https://acc-metabase.sabah.gov.my/public/dashboard/3165263e-563f-4d30-a84d-bdf024007225"
     },
     {
     	"title": "Payee: Angkatan Hebat", 
      	"display_time": 10, 
-      "url": "https://acc-metabase.sabah.gov.my/public/dashboard/28362ace-5298-490d-85d5-6304f15916fc"\
-    },
+        "url": "https://acc-metabase.sabah.gov.my/public/dashboard/28362ace-5298-490d-85d5-6304f15916fc"\
+    }
 ]
